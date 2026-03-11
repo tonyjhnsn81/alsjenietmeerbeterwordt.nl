@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alsjenietmeerbeterwordt.nl/sitemap.xml
